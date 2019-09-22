@@ -3,7 +3,7 @@
     <HomeCarousel/>
 <b-container>
 <section class="mb-5">
-  <h1 class="mb-3">Рекомендуемые товары</h1>
+  <h1 class="mb-3">Рекомендуемые предметы</h1>
   <ProductSlider :products="products"/>
   <div class="row">
     <div class="col-2"></div>
